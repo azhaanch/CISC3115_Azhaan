@@ -1,0 +1,64 @@
+    1  cd ~/Downloads/
+    2  pwd
+    3  git clone https://github.com/Yunhua468/CISC3115_Yunhua.git
+    4  ls
+    5  cd CISC3115_Yunhua/
+    6  pwd
+    7  mkdir assignment1
+    8  ls
+    9  pwd
+   10  mkdir javacode
+   11  ls
+   12  pwd
+   13  ls
+   14  cd javacode
+   15  ls
+   16  ls
+   17  cd ../
+   18  ls
+   19  vi test.txt 
+   20  ls
+   21  cat test.txt 
+   22  ls
+   23  vi test1.txt'
+
+   24  ls
+   25  vi test1.txt
+   26  ls
+   27  rm test1.txt 
+   28  ls
+   29  cd javacode/
+   30  ls
+   31  vi HelloWorld.java
+   32  ls
+   33  pwd
+   34  cd ..
+   35  pwd
+   36  ls
+   37  cd /c/Users/Student/Downloads/CISC3115_Yunhua/javacode/
+   38  pwd
+   39  cd ..
+   40  ls
+   41  ls -l
+   42  ls
+   43  hitory
+   44  history
+   45  history > clihistory.txt
+   46  ls
+   47  cat clihistory.txt 
+   48  pwd
+   49  git status
+   50  git add test.txt
+   51  git add clihistory.txt
+   52  ls javacode/
+   53  git add javacode/
+   54  git status
+   55  git commit -m "first assignment"
+   56  git config --global user.name "Yunhua468"
+   57  git config --global user.email yzhao5@gradcenter.cuny.edu
+   58  git commit -m "first assignment"
+   59  git log
+   60  git branch
+   61  git push -u orign main
+   62  git push -u origin main
+   63  history > clihistory.txt
